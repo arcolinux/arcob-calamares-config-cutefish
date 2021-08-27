@@ -1,0 +1,2 @@
+# ArcoLinuxB-Cutefish Calamares configuration
+
