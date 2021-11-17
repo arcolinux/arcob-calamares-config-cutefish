@@ -38,7 +38,7 @@
   selected: false
   expanded: true
   packages:
-    - bitwarden-bin
+    - bitwarden
     - enpass-bin
     - keepassxc
     - lastpass
@@ -73,3 +73,13 @@
     - virtualbox-host-dkms
     - linux-lts-headers
     - linux-lts
+- name: "Vmware"
+  description: "Installs vmware software"
+  critical: false
+  hidden: false
+  selected: false
+  expanded: false
+  packages:
+    - open-vm-tools
+    - vmware-workstation
+    - vmware-keymaps
